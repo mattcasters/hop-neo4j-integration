@@ -1,0 +1,19 @@
+{
+  "variables" : [ {
+    "name" : "NEO_HOSTNAME",
+    "value" : "localhost",
+    "description" : "The hostname"
+  }, {
+    "name" : "NEO_USERNAME",
+    "value" : "neo4j",
+    "description" : "The Neo4j user"
+  }, {
+    "name" : "NEO_PASSWORD",
+    "value" : "<YourPassword>",
+    "description" : "The Neo4j password"
+  }, {
+    "name" : "NEO_BOLT_PORT",
+    "value" : "7687",
+    "description" : "The bolt port (defaults to 7687)"
+  } ]
+}
